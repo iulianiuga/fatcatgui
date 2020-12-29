@@ -1,0 +1,17 @@
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\bin\Debug\configuration.ini
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\bin\Debug\fatcatgui.exe.config
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\bin\Debug\fatcatgui.exe
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\bin\Debug\fatcatgui.pdb
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\bin\Debug\INIFileParser.dll
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\bin\Debug\INIFileParser.xml
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\obj\Debug\fatcatgui.controls.progress.ProgressUc.resources
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\obj\Debug\fatcatgui.controls.status.StatusUc.resources
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\obj\Debug\fatcatgui.Form1.resources
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\obj\Debug\fatcatgui.Properties.Resources.resources
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\obj\Debug\fatcatgui.csproj.GenerateResource.cache
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\obj\Debug\fatcatgui.csproj.CoreCompileInputs.cache
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\obj\Debug\fatcatgui.csproj.CopyComplete
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\obj\Debug\fatcatgui.exe
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\obj\Debug\fatcatgui.pdb
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\bin\Debug\logo.png
+Z:\workdev\streamer\fatcat\fatcatgui\fatcatgui\obj\Debug\fatcatgui.controls.image.ImageUC.resources
